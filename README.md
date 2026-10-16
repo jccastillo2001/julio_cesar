@@ -19,3 +19,29 @@ You can reach me on [X](https://x.com/r00tth3w0r1d) or my email [here](mailto:ys
 - **Touhou.** I'm reconstructing, porting, and modding Touhou games, and trying out ideas from formal methods, zero knowledge, and fuzzing along the way.
 
 Most of my research is still unpublished, so the related repositories are private for now. That's why the public side of my GitHub is mostly Touhou: I'm a fan who can't help bringing my research habits to the games.
+
+
+
+### ¡Hola! 👋 Soy [Tu Nombre]
+
+Soy un desarrollador apasionado por [menciona tus intereses, ej: la programación web, la creación de videojuegos, etc.].
+
+- 🔭 Actualmente estoy trabajando en...
+- 🌱 Estoy aprendiendo...
+- 👯 Busco colaborar en proyectos de código abierto.
+- 📫 ¿Cómo contactarme?: [tu-correo@ejemplo.com]
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas en GitHub
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=radical" />
+</p>
