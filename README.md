@@ -2,7 +2,7 @@
 
 ### ¡Hola! 👋 Soy [Julio_Cesar]
 
-Soy un desarrollador apasionado por [menciona tus intereses, ej: la programación web, la creación de videojuegos, etc.].
+Soy un desarrollador apasionado por [ la programación web, la creación de videojuegos, etc.].
 
 - 🔭 Actualmente estoy estudiando en IES PIO BAROJA
 - 🌱 DAW INTENSIVO
@@ -20,6 +20,3 @@ Soy un desarrollador apasionado por [menciona tus intereses, ej: la programació
 ---
 
 ### 📊 Mis Estadísticas en GitHub
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=radical" />
-</p>
